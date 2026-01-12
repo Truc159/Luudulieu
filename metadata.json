@@ -1,0 +1,5 @@
+{
+  "name": "Student Data Manager (Google Sheets Sync)",
+  "description": "A professional React application to collect, manage, and visualize student data with real-time Google Sheets synchronization and AI-powered data formatting.",
+  "requestFramePermissions": []
+}
